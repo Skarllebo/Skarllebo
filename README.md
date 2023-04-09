@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Skarllebo">
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api?username=Skarllebo&show_icons=true&theme=dracula" />
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarllebo&layout=compact&theme=dracula" />
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Skarllebo&show_icons=true&theme=dracula" />
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarllebo&layout=compact&theme=dracula" />
 </div>
 
 <div style="display: inline_block"><br>
