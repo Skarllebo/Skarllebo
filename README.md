@@ -1,7 +1,7 @@
 ### Olá, eu sou a Roberta Avila
 
 - 🔭 Atualmente trabalho como médica veterinária
-- 🌱 Sou iniciante e estou estudando HTML, CSS e JS
+- 🌱 Sou iniciante e estou estudando Análise e Desenvolvimento de Sistemas
 - 😄 Ela/Dela
 
 <div>
